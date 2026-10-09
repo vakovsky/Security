@@ -1,3 +1,3 @@
 # МРЕЖОВА И ИНФОРМАЦИОННА СИГУРНОСТ
-- [Официален сайт на CERT България](https://cert.bg)
+- [](https://github.com/vakovsky/Security/NIS)
 - [Министерство на електронното управление](https://government.bg)
