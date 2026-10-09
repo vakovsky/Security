@@ -1,3 +1,3 @@
 # МРЕЖОВА И ИНФОРМАЦИОННА СИГУРНОСТ
-- [](https://github.com/vakovsky/Security/NIS)
+- [МРЕЖОВА И ИНФОРМАЦИОННА СИГУРНОСТ](https://github.com/vakovsky/Security/NIS)
 - [Министерство на електронното управление](https://government.bg)
